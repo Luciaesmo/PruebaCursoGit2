@@ -1,5 +1,9 @@
 linea1
+<<<<<<< HEAD
 linea2
 Linea3
 linea4
 linea5
+=======
+linea2
+>>>>>>> parent of b31351a (agregando linea3)
